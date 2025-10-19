@@ -1,0 +1,4 @@
+pyspellchecker
+textblob
+Grammarly
+language-tool-python
